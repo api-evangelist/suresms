@@ -65,4 +65,114 @@
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
 SureSMS is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://suresms.com/
+
+**Areas:** SMS Gateway · Communications Platform · Industry Solutions · Integration Services
+
+## SureSMS on APIs.io
+
+Everything profiled for SureSMS is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/suresms/](https://apis.io/providers/suresms/)** — or go straight to one of the APIs or properties below.
+
+### APIs (5)
+
+- [SureSMS Authenticate API](https://apis.io/apis/suresms/suresms-authenticate-api/) — The Authenticate API from SureSMS — 1 operation(s) for authenticate.
+- [SureSMS Coverage API](https://apis.io/apis/suresms/suresms-coverage-api/) — The Coverage API from SureSMS — 1 operation(s) for coverage.
+- [SureSMS Message API](https://apis.io/apis/suresms/suresms-message-api/) — The Message API from SureSMS — 2 operation(s) for message.
+- [SureSMS Message Status API](https://apis.io/apis/suresms/suresms-messagestatus-api/) — The MessageStatus API from SureSMS — 1 operation(s) for messagestatus.
+- [SureSMS Price API](https://apis.io/apis/suresms/suresms-price-api/) — The Price API from SureSMS — 1 operation(s) for price.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [SureSMS Agentic Access](https://apis.io/agentic-access/suresms/suresms-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [SureSMS API Rules](https://apis.io/rules/suresms/suresms-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [SureSMS Authentication](https://apis.io/security/suresms/suresms-authentication/)
+- [SureSMS Domain Security](https://apis.io/security/suresms/suresms-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [SureSMS Scopes](https://apis.io/scopes/suresms/suresms-scopes/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://suresms.com/)
+- [Documentation](https://developer.suresms.com/)
+- [API reference](https://apiv2.suresms.com/json/swagger/ui/index)
+- [Sign up](https://app.suresms.com/account/signup)
+- [Blog](https://suresms.com/dk/ressourcer/blog/)
+- [Security](https://suresms.com/en/about-suresms/security/)
+- [Privacy policy](https://suresms.com/es/caracteristicas-2/politica-de-privacidad-y-cookies/)
+
+## API Evangelist rating
+
+**Kin Score 40.3** — developing · rubric 0.27.0 · scored 2026-11-16
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 40.0 |
+| Contract governance | 79.1 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 38.1 |
+| Access clarity | 23.7 |
+
+**Agent readiness 26.4** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 30.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/suresms/](https://apis.io/providers/suresms/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for SureSMS: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/suresms/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
